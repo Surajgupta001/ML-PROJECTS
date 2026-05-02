@@ -219,3 +219,6 @@ __marimo__/
 
 # Logs
 logs/
+
+# Artifacts
+artifacts/
